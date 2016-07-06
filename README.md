@@ -237,6 +237,7 @@
 * Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscopedata.com/blog/
 * Pinterest https://engineering.pinterest.com/blog
+* Pluralsight tutorials.pluralsight.com
 * Polyvore http://engblog.polyvore.com/
 * Postmark https://postmarkapp.com/blog
 * Prezi https://medium.com/prezi-engineering
